@@ -1,1 +1,2 @@
-
+Bronze Layer – Raw Storage
+The incoming data is first stored as-is in the Bronze layer container in Azure Data Lake.

@@ -1,1 +1,2 @@
-
+Silver Layer – Cleaned & Transformed
+From Bronze, the data is processed using Databricks notebooks, cleaned, and stored in the Silver layer for structured querying and further use.
